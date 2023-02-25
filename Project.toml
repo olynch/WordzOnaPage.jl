@@ -1,0 +1,8 @@
+name = "WordzOnaPage"
+uuid = "868b8377-2575-469e-a093-3827dee5e685"
+authors = ["Owen Lynch <root@owenlynch.org>"]
+version = "0.1.0"
+
+[deps]
+ArgParse = "c7e460c6-2fb9-53a9-8c5b-16f535851c63"
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
